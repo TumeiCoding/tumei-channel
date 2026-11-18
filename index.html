@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>土妹频道 · 资料库</title>
+<meta name="description" content="土妹频道 YouTube 视频里用到的讲解演示、PPT、思维导图和素材。">
+<link rel="icon" href="assets/avatar.png">
+<style>
+:root {
+  --bg: #faf7f2;
+  --surface: #ffffff;
+  --text: #2b2622;
+  --muted: #7a7068;
+  --line: #ebe4da;
+  --accent: #c8402f;
+  --accent-soft: #fbe9e5;
+  --chip: #f1ebe2;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #1a1816;
+    --surface: #24211e;
+    --text: #ece6de;
+    --muted: #a39a90;
+    --line: #36312c;
+    --accent: #ef6a55;
+    --accent-soft: #3a2420;
+    --chip: #2e2a26;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.6 -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+}
+.wrap { max-width: 920px; margin: 0 auto; padding: 48px 16px 64px; }
+header { display: flex; gap: 20px; align-items: center; margin-bottom: 32px; }
+header img { width: 84px; height: 84px; border-radius: 50%; object-fit: cover; flex: none; border: 3px solid var(--surface); box-shadow: 0 2px 10px rgba(0,0,0,.08); }
+h1 { margin: 0; font-size: 28px; letter-spacing: .02em; }
+.tagline { margin: 4px 0 10px; color: var(--muted); }
+.links { display: flex; flex-wrap: wrap; gap: 8px; }
+.links a { font-size: 13px; color: var(--text); text-decoration: none; padding: 3px 10px; border-radius: 999px; background: var(--chip); }
+.links a:hover { background: var(--accent-soft); color: var(--accent); }
+.toolbar { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 12px 0; margin-bottom: 8px; border-bottom: 1px solid var(--line); }
+input[type=search] { width: 100%; font: inherit; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--text); outline: none; }
+input[type=search]:focus { border-color: var(--accent); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.chips button { font: inherit; font-size: 13px; border: 0; cursor: pointer; padding: 3px 12px; border-radius: 999px; background: var(--chip); color: var(--text); }
+.chips button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+h2 { font-size: 18px; margin: 32px 0 12px; display: flex; align-items: baseline; gap: 8px; }
+h2 .count { font-size: 13px; color: var(--muted); font-weight: normal; }
+h2 .old { font-size: 12px; font-weight: normal; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 0 6px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+a.card { display: block; text-decoration: none; color: inherit; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; transition: border-color .15s, transform .15s; }
+a.card:hover { border-color: var(--accent); transform: translateY(-1px); }
+.card .t { font-weight: 600; line-height: 1.45; }
+.card .meta { margin-top: 6px; font-size: 13px; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; }
+.badge { font-size: 11px; padding: 0 6px; border-radius: 4px; background: var(--chip); color: var(--muted); }
+.badge.html { background: var(--accent-soft); color: var(--accent); }
+.empty { color: var(--muted); padding: 24px 0; }
+footer { margin-top: 48px; font-size: 13px; color: var(--muted); }
+footer a { color: var(--muted); }
+@media (max-width: 520px) {
+  .wrap { padding-top: 28px; }
+  header { gap: 14px; }
+  header img { width: 64px; height: 64px; }
+  h1 { font-size: 22px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <img src="assets/avatar.png" alt="土妹">
+    <div>
+      <h1>土妹频道 · 资料库</h1>
+      <p class="tagline">视频里用到的讲解演示、PPT 和思维导图都在这里，点开就能看。</p>
+      <nav class="links">
+        <a href="https://www.youtube.com/channel/UCu1lb_YUHcJFoc7lraETxvQ/" target="_blank" rel="noopener">YouTube</a>
+        <a href="https://space.bilibili.com/555585221/" target="_blank" rel="noopener">B 站</a>
+        <a href="https://www.ixigua.com/home/2541718247050175" target="_blank" rel="noopener">西瓜视频</a>
+        <a href="https://github.com/TumeiCoding/tumei-channel" target="_blank" rel="noopener">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <input type="search" id="q" placeholder="搜索标题，比如 Claude Code、王阳明…" autocomplete="off">
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <main id="list"></main>
+
+  <footer>
+    这个页面由 <code>scripts/build_index.py</code> 自动生成。
+    <a href="https://github.com/TumeiCoding/tumei-channel">在 GitHub 上查看全部文件</a>
+  </footer>
+</div>
+
+<script>
+const ITEMS = [
+ {
+  "title": "手把手教你搭建 AI 产品 Evals",
+  "href": "Before2026/ai-llm/ai-product-evals-howto.html",
+  "kind": "HTML",
+  "category": "AI / 大模型",
+  "old": true,
+  "date": "2025-09-21",
+  "episode": "",
+  "path": "Before2026/ai-llm/ai-product-evals-howto.html"
+ },
+ {
+  "title": "Claude Code 成功秘诀 (详细版 PPT)",
+  "href": "Before2026/ai-llm/claude-code-secrets.html",
+  "kind": "HTML",
+  "category": "AI / 大模型",
+  "old": true,
+  "date": "2025-09-21",
+  "episode": "",
+  "path": "Before2026/ai-llm/claude-code-secrets.html"
+ },
+ {
+  "title": "用LLM构建成功产品的实用指南 - 战略篇",
+  "href": "Before2026/ai-llm/llm-product-guide-3-strategy.html",
+  "kind": "HTML",
+  "category": "AI / 大模型",
+  "old": true,
+  "date": "2025-09-21",
+  "episode": "",
+  "path": "Before2026/ai-llm/llm-product-guide-3-strategy.html"
+ },
+ {
+  "title": "AI 产品开发与评估",
+  "href": "Before2026/ai-llm/openai-ai-product-eval.html",
+  "kind": "HTML",
+  "category": "AI / 大模型",
+  "old": true,
+  "date": "2025-09-14",
+  "episode": "",
+  "path": "Before2026/ai-llm/openai-ai-product-eval.html"
+ },
+ {
+  "title": "用LLM构建成功产品的实用指南 - 运营篇",
+  "href": "Before2026/ai-llm/llm-product-guide-2-operations.html",
+  "kind": "HTML",
+  "category": "AI / 大模型",
+  "old": true,
+  "date": "2025-08-30",
+  "episode": "",
+  "path": "Before2026/ai-llm/llm-product-guide-2-operations.html"
+ },
+ {
+  "title": "用LLM构建成功产品的实用指南",
+  "href": "Before2026/ai-llm/llm-product-guide-1-tactics.html",
+  "kind": "HTML",
+  "category": "AI / 大模型",
+  "old": true,
+  "date": "2025-08-23",
+  "episode": "",
+  "path": "Before2026/ai-llm/llm-product-guide-1-tactics.html"
+ },
+ {
+  "title": "AI编程思维转变：从编辑器到命令行",
+  "href": "Before2026/ai-llm/claude-code-ai-coding-mindset.html",
+  "kind": "HTML",
+  "category": "AI / 大模型",
+  "old": true,
+  "date": "2025-08-18",
+  "episode": "",
+  "path": "Before2026/ai-llm/claude-code-ai-coding-mindset.html"
+ },
+ {
+  "title": "Google I/O China 2025 - AI 如何改变编程",
+  "href": "Before2026/ai-llm/google-io-china-2025-ai-coding.html",
+  "kind": "HTML",
+  "category": "AI / 大模型",
+  "old": true,
+  "date": "2025-08-18",
+  "episode": "",
+  "path": "Before2026/ai-llm/google-io-china-2025-ai-coding.html"
+ },
+ {
+  "title": "Agentic-RAG-聪明的AI大管家",
+  "href": "Before2026/ai-llm/Agentic-RAG-聪明的AI大管家.pdf",
+  "kind": "PDF",
+  "category": "AI / 大模型",
+  "old": true,
+  "date": "2025-07-27",
+  "episode": "",
+  "path": "Before2026/ai-llm/Agentic-RAG-聪明的AI大管家.pdf"
+ },
+ {
+  "title": "MemGPT-Letta-架构演进与核心特性",
+  "href": "Before2026/ai-llm/MemGPT-Letta-架构演进与核心特性.pdf",
+  "kind": "PDF",
+  "category": "AI / 大模型",
+  "old": true,
+  "date": "2025-07-27",
+  "episode": "",
+  "path": "Before2026/ai-llm/MemGPT-Letta-架构演进与核心特性.pdf"
+ },
+ {
+  "title": "提高颜值",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/self-growth/提高颜值.xmind",
+  "kind": "XMind",
+  "category": "个人成长",
+  "old": true,
+  "date": "2022-05-02",
+  "episode": "",
+  "path": "Before2026/self-growth/提高颜值.xmind"
+ },
+ {
+  "title": "根治焦虑抑郁痛苦-获得快乐幸福宁静",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/self-growth/根治焦虑抑郁痛苦-获得快乐幸福宁静.xmind",
+  "kind": "XMind",
+  "category": "个人成长",
+  "old": true,
+  "date": "2022-05-02",
+  "episode": "",
+  "path": "Before2026/self-growth/根治焦虑抑郁痛苦-获得快乐幸福宁静.xmind"
+ },
+ {
+  "title": "算法",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/programming/算法.xmind",
+  "kind": "XMind",
+  "category": "编程",
+  "old": true,
+  "date": "2022-05-02",
+  "episode": "",
+  "path": "Before2026/programming/算法.xmind"
+ },
+ {
+  "title": "零信任网络",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/security/零信任网络.xmind",
+  "kind": "XMind",
+  "category": "网络安全",
+  "old": true,
+  "date": "2020-11-14",
+  "episode": "",
+  "path": "Before2026/security/零信任网络.xmind"
+ },
+ {
+  "title": "以太坊",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/blockchain/以太坊.xmind",
+  "kind": "XMind",
+  "category": "区块链",
+  "old": true,
+  "date": "2020-11-06",
+  "episode": "",
+  "path": "Before2026/blockchain/以太坊.xmind"
+ },
+ {
+  "title": "区块链和比特币",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/blockchain/区块链和比特币.xmind",
+  "kind": "XMind",
+  "category": "区块链",
+  "old": true,
+  "date": "2020-11-06",
+  "episode": "",
+  "path": "Before2026/blockchain/区块链和比特币.xmind"
+ },
+ {
+  "title": "AD活动目录",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/security/AD活动目录.xmind",
+  "kind": "XMind",
+  "category": "网络安全",
+  "old": true,
+  "date": "2020-10-11",
+  "episode": "",
+  "path": "Before2026/security/AD活动目录.xmind"
+ },
+ {
+  "title": "HTTPS权威指南",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/security/HTTPS权威指南.xmind",
+  "kind": "XMind",
+  "category": "网络安全",
+  "old": true,
+  "date": "2020-10-11",
+  "episode": "",
+  "path": "Before2026/security/HTTPS权威指南.xmind"
+ },
+ {
+  "title": "千峰网络安全课程",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/security/千峰网络安全课程.xmind",
+  "kind": "XMind",
+  "category": "网络安全",
+  "old": true,
+  "date": "2020-10-11",
+  "episode": "",
+  "path": "Before2026/security/千峰网络安全课程.xmind"
+ },
+ {
+  "title": "白帽子讲网络安全",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/security/白帽子讲网络安全.xmind",
+  "kind": "XMind",
+  "category": "网络安全",
+  "old": true,
+  "date": "2020-10-11",
+  "episode": "",
+  "path": "Before2026/security/白帽子讲网络安全.xmind"
+ },
+ {
+  "title": "Go语言",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/programming/Go语言.xmind",
+  "kind": "XMind",
+  "category": "编程",
+  "old": true,
+  "date": "2020-10-11",
+  "episode": "",
+  "path": "Before2026/programming/Go语言.xmind"
+ },
+ {
+  "title": "Linux服务器架设",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/programming/Linux服务器架设.xmind",
+  "kind": "XMind",
+  "category": "编程",
+  "old": true,
+  "date": "2020-10-11",
+  "episode": "",
+  "path": "Before2026/programming/Linux服务器架设.xmind"
+ },
+ {
+  "title": "Python",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/programming/Python.xmind",
+  "kind": "XMind",
+  "category": "编程",
+  "old": true,
+  "date": "2020-10-11",
+  "episode": "",
+  "path": "Before2026/programming/Python.xmind"
+ },
+ {
+  "title": "Scala",
+  "href": "https://github.com/TumeiCoding/tumei-channel/blob/master/Before2026/programming/Scala.xmind",
+  "kind": "XMind",
+  "category": "编程",
+  "old": true,
+  "date": "2020-10-11",
+  "episode": "",
+  "path": "Before2026/programming/Scala.xmind"
+ }
+];
+
+const listEl = document.getElementById('list');
+const chipsEl = document.getElementById('chips');
+const qEl = document.getElementById('q');
+let activeCat = '全部';
+
+// 分类顺序：新资料在前（按最新日期），旧资料在后
+const catInfo = new Map();
+for (const it of ITEMS) {
+  const c = catInfo.get(it.category) || { old: it.old, latest: '' };
+  if ((it.date || '') > c.latest) c.latest = it.date || '';
+  catInfo.set(it.category, c);
+}
+const cats = [...catInfo.keys()].sort((a, b) => {
+  const A = catInfo.get(a), B = catInfo.get(b);
+  if (A.old !== B.old) return A.old ? 1 : -1;
+  return B.latest.localeCompare(A.latest);
+});
+
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+function renderChips() {
+  chipsEl.innerHTML = ['全部', ...cats].map(c =>
+    `<button type="button" aria-pressed="${c === activeCat}" data-cat="${esc(c)}">${esc(c)}</button>`).join('');
+}
+
+function card(it) {
+  const external = /^https?:/.test(it.href);
+  const meta = [
+    `<span class="badge ${it.kind === 'HTML' ? 'html' : ''}">${it.kind === 'HTML' ? '在线演示' : esc(it.kind)}</span>`,
+    it.date ? `<span>${esc(it.date)}</span>` : '',
+    it.episode ? `<span>${esc(it.episode)}</span>` : '',
+  ].join('');
+  return `<a class="card" href="${esc(encodeURI(decodeURI(it.href)))}" ${external ? 'target="_blank" rel="noopener"' : ''}>
+    <div class="t">${esc(it.title)}</div><div class="meta">${meta}</div></a>`;
+}
+
+function render() {
+  const q = qEl.value.trim().toLowerCase();
+  const match = it => (activeCat === '全部' || it.category === activeCat) &&
+    (!q || (it.title + ' ' + it.path + ' ' + it.episode).toLowerCase().includes(q));
+  let html = '';
+  for (const c of cats) {
+    const rows = ITEMS.filter(it => it.category === c && match(it));
+    if (!rows.length) continue;
+    // 在线演示排前面，其他格式排后面
+    rows.sort((a, b) => (a.kind === 'HTML' ? 0 : 1) - (b.kind === 'HTML' ? 0 : 1) || (b.date || '').localeCompare(a.date || ''));
+    html += `<section><h2>${esc(c)} <span class="count">${rows.length}</span>${catInfo.get(c).old ? '<span class="old">2026 年以前</span>' : ''}</h2>
+      <div class="grid">${rows.map(card).join('')}</div></section>`;
+  }
+  listEl.innerHTML = html || '<p class="empty">没有找到相关资料。</p>';
+}
+
+chipsEl.addEventListener('click', e => {
+  const b = e.target.closest('button');
+  if (!b) return;
+  activeCat = b.dataset.cat;
+  renderChips();
+  render();
+});
+qEl.addEventListener('input', render);
+renderChips();
+render();
+</script>
+</body>
+</html>

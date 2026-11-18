@@ -1,22 +1,22 @@
 # Before2026：旧资料归档（2020 – 2025）
 
-这里是土妹编程频道 2020–2025 年的旧 PPT、PDF 和思维导图，按主题分类整理，不再更新。
+这里是土妹频道 2020–2025 年的旧 PPT、PDF 和思维导图，按主题分类整理，不再更新。
 
-> HTML 幻灯片直接在 GitHub 上看不方便，点下面表格里的「在线查看」链接即可。
+> HTML 幻灯片直接在 GitHub 上看不方便，点下面表格里的「在线查看」链接，或者打开 [资料库首页](https://tumeicoding.github.io/tumei-channel/) 浏览全部资料。
 > `.xmind` 文件需要用 [XMind](https://xmind.cn/) 打开。
 
 ## 🤖 AI / 大模型（`ai-llm/`）
 
 | 资料 | 文件 | 时间 |
 | --- | --- | --- |
-| AI 编程思维转变：从编辑器到命令行（Claude Code） | [在线查看](https://tumeicoding.github.io/tumei_study_materials/Before2026/ai-llm/claude-code-ai-coding-mindset.html) | 2025-08 |
-| Google I/O China 2025 - AI 如何改变编程 | [在线查看](https://tumeicoding.github.io/tumei_study_materials/Before2026/ai-llm/google-io-china-2025-ai-coding.html) | 2025-08 |
-| 用 LLM 构建成功产品的实用指南（一）战术篇 | [在线查看](https://tumeicoding.github.io/tumei_study_materials/Before2026/ai-llm/llm-product-guide-1-tactics.html) | 2025-08 |
-| 用 LLM 构建成功产品的实用指南（二）运营篇 | [在线查看](https://tumeicoding.github.io/tumei_study_materials/Before2026/ai-llm/llm-product-guide-2-operations.html) | 2025-08 |
-| 用 LLM 构建成功产品的实用指南（三）战略篇 | [在线查看](https://tumeicoding.github.io/tumei_study_materials/Before2026/ai-llm/llm-product-guide-3-strategy.html) | 2025-09 |
-| AI 产品开发与评估（OpenAI） | [在线查看](https://tumeicoding.github.io/tumei_study_materials/Before2026/ai-llm/openai-ai-product-eval.html) | 2025-09 |
-| 手把手教你搭建 AI 产品 Evals | [在线查看](https://tumeicoding.github.io/tumei_study_materials/Before2026/ai-llm/ai-product-evals-howto.html) | 2025-09 |
-| Claude Code 成功秘诀（详细版） | [在线查看](https://tumeicoding.github.io/tumei_study_materials/Before2026/ai-llm/claude-code-secrets.html) | 2025-09 |
+| AI 编程思维转变：从编辑器到命令行（Claude Code） | [在线查看](https://tumeicoding.github.io/tumei-channel/Before2026/ai-llm/claude-code-ai-coding-mindset.html) | 2025-08 |
+| Google I/O China 2025 - AI 如何改变编程 | [在线查看](https://tumeicoding.github.io/tumei-channel/Before2026/ai-llm/google-io-china-2025-ai-coding.html) | 2025-08 |
+| 用 LLM 构建成功产品的实用指南（一）战术篇 | [在线查看](https://tumeicoding.github.io/tumei-channel/Before2026/ai-llm/llm-product-guide-1-tactics.html) | 2025-08 |
+| 用 LLM 构建成功产品的实用指南（二）运营篇 | [在线查看](https://tumeicoding.github.io/tumei-channel/Before2026/ai-llm/llm-product-guide-2-operations.html) | 2025-08 |
+| 用 LLM 构建成功产品的实用指南（三）战略篇 | [在线查看](https://tumeicoding.github.io/tumei-channel/Before2026/ai-llm/llm-product-guide-3-strategy.html) | 2025-09 |
+| AI 产品开发与评估（OpenAI） | [在线查看](https://tumeicoding.github.io/tumei-channel/Before2026/ai-llm/openai-ai-product-eval.html) | 2025-09 |
+| 手把手教你搭建 AI 产品 Evals | [在线查看](https://tumeicoding.github.io/tumei-channel/Before2026/ai-llm/ai-product-evals-howto.html) | 2025-09 |
+| Claude Code 成功秘诀（详细版） | [在线查看](https://tumeicoding.github.io/tumei-channel/Before2026/ai-llm/claude-code-secrets.html) | 2025-09 |
 | MemGPT (Letta)：架构演进与核心特性 | [PDF](ai-llm/MemGPT-Letta-架构演进与核心特性.pdf) | 2025-07 |
 | Agentic RAG：聪明的 AI 大管家 | [PDF](ai-llm/Agentic-RAG-聪明的AI大管家.pdf) | 2025-07 |
 
