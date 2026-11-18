@@ -10,7 +10,6 @@
 │   ├── security/     # 网络安全
 │   ├── blockchain/   # 区块链
 │   └── self-growth/  # 个人成长
-├── *.html           # 旧链接跳转页（自动跳到 Before2026/ 里的新地址，请勿删除）
 └── README.md
 ```
 
