@@ -21,21 +21,10 @@
 
 旧资料的完整清单见 [Before2026/README.md](Before2026/README.md)。
 
-## ➕ 怎么放新资料
-
-1. 在对应分类下建一个文件夹，名字用 `YYMMDD-标题` 的格式，比如 `书籍讲解/261117-佛学的核心/`。日期会自动显示在首页上。
-2. 把 HTML 演示、PPT、PDF、思维导图放进去。打包好的演示（文件夹里有 `index.html` 和 `assets/`）整个文件夹放进去就行，首页会把它当成一份演示。
-3. 推送到 GitHub 以后，GitHub Actions 会自动更新首页 `index.html`，大约一两分钟后就能在线看到。
-
-想在本地先看效果，可以在仓库根目录运行：
-
-```bash
-python3 scripts/build_index.py
-```
-
 ## 📺 关注土妹频道
 
 - YouTube：https://www.youtube.com/channel/UCu1lb_YUHcJFoc7lraETxvQ/
+- X：https://x.com/tumei_facai
 - B 站：https://space.bilibili.com/555585221/
 - 西瓜视频：https://www.ixigua.com/home/2541718247050175
 - 今日头条：https://profile.zjurl.cn/rogue/ugc/profile/?user_id=2541718247050175
