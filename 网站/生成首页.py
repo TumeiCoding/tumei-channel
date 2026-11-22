@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""扫描仓库里的资料，生成根目录的 index.html。
+"""扫描仓库里的资料，生成网站首页 index.html。
 
-用法（在仓库根目录）：
-    python3 scripts/build_index.py
+GitHub Actions 每次推送都会运行它并发布网站，index.html 不提交到仓库。
+本地预览（在仓库根目录）：
+    python3 网站/生成首页.py
 
 规则：
 - 每个 .html 文件算一份「在线演示」；如果某个文件夹里有 index.html
@@ -10,7 +11,7 @@
 - 标题取 HTML 里的 <title>。
 - 日期优先取路径里 `YYMMDD-` 开头的文件夹名（如 261117-佛学的核心 → 2026-11-17），
   否则取这个文件第一次提交到 git 的日期。
-- 分类取第一层文件夹名；Before2026/ 下面按子文件夹分类并标记为旧资料。
+- 分类取第一层文件夹名；「2026年以前/」下面按子文件夹分类并标记为旧资料。
 - PDF、XMind、PPT 等也会列出来，作为「其他格式」。
 """
 
@@ -23,20 +24,15 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 REPO = "TumeiCoding/tumei-channel"
+SITE_DIR = "网站"
+OLD_DIR = "2026年以前"
 BRANCH = "master"
 
-SKIP_DIRS = {".git", ".github", "scripts", "assets", "node_modules"}
+SKIP_DIRS = {".git", ".github", SITE_DIR, "node_modules", "__pycache__"}
 OTHER_EXTS = {".pdf": "PDF", ".xmind": "XMind", ".pptx": "PPT", ".key": "Keynote", ".md": None}
 
 GENERIC_TITLES = {"presentation", "document", "index", "vite app", "react app", "untitled", "slides"}
 
-OLD_CATEGORY_LABELS = {
-    "ai-llm": "AI / 大模型",
-    "programming": "编程",
-    "security": "网络安全",
-    "blockchain": "区块链",
-    "self-growth": "个人成长",
-}
 
 
 def read_title(path: Path) -> str:
@@ -76,9 +72,8 @@ def path_date(parts) -> str:
 def category(parts):
     if len(parts) <= 1:
         return "其他", False
-    if parts[0] == "Before2026":
-        sub = parts[1] if len(parts) > 2 else "其他"
-        return OLD_CATEGORY_LABELS.get(sub, sub), True
+    if parts[0] == OLD_DIR:
+        return (parts[1] if len(parts) > 2 else "其他"), True
     return parts[0], False
 
 
@@ -143,7 +138,7 @@ def collect():
 
 def main():
     items = collect()
-    template = (ROOT / "scripts" / "index.template.html").read_text(encoding="utf-8")
+    template = (ROOT / SITE_DIR / "首页模板.html").read_text(encoding="utf-8")
     data = json.dumps(items, ensure_ascii=False, indent=1).replace("</", "<\\/")
     out = template.replace("/*__DATA__*/[]", data)
     (ROOT / "index.html").write_text(out, encoding="utf-8")
