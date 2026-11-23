@@ -12,7 +12,7 @@ GitHub Actions 每次推送都会运行它并发布网站，index.html 不提交
 - 日期优先取路径里 `YYMMDD-` 开头的文件夹名（如 261117-佛学的核心 → 2026-11-17），
   否则取这个文件第一次提交到 git 的日期。
 - 分类取第一层文件夹名；「2026年以前/」下面按子文件夹分类并标记为旧资料。
-- PDF、XMind、PPT 等也会列出来，作为「其他格式」。
+- PDF、XMind、PPT 等也会列出来，作为「其他格式」。XMind 链接到 网站/xmind.html 在线查看。
 """
 
 import html
@@ -21,6 +21,7 @@ import os
 import re
 import subprocess
 from pathlib import Path
+from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 REPO = "TumeiCoding/tumei-channel"
@@ -108,7 +109,13 @@ def collect():
                 kind = "HTML"
             elif ext in OTHER_EXTS and OTHER_EXTS[ext] and not inside_app:
                 is_app = False
-                href = rel if ext == ".pdf" else f"https://github.com/{REPO}/blob/{BRANCH}/{rel}"
+                if ext == ".pdf":
+                    href = rel
+                elif ext == ".xmind":
+                    # 用网站里的查看页在线显示思维导图
+                    href = f"{SITE_DIR}/xmind.html?file={quote(rel, safe='/')}"
+                else:
+                    href = f"https://github.com/{REPO}/blob/{BRANCH}/{rel}"
                 kind = OTHER_EXTS[ext]
             else:
                 continue
