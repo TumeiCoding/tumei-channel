@@ -1,0 +1,1312 @@
+# 索引
+
+> 原书 PDF 第 525–544 页。OCR 自扫描件（原书两栏排版），按坐标重排并对照整页扫描图整理为“术语（English）：页码”列表；子条目缩进列于主条目之下。
+
+<!-- pdf p525 / 书页 510 -->
+
+## 一画
+
+- 一点转向点数图（One-box reversal point and figure charts）：306-307
+
+## 二画
+
+- 几何角度（Geometric angles）：496-506
+- 人工智能形态识别（Artificial Intelligence Pattern Recognition）：421,446
+- 《入市和出市：如何与职业对手交易》（Market Entry and Exit: How to Irade with the Professionals （Bressert））：472
+
+## 三画
+
+- 上升三角形（Ascending triangles）：127-134
+- 上升三重顶（Ascending triple tops）：325-326
+- 上升趋势线（Up trendlines）：68,73,194
+- 下降三角形（Descending triangles）：134-136
+- 下降三重底（Descending triple bottoms）：313
+- 上升趋势（Uptrends）：54-56,59-60
+  - 管道线等：74
+  - 定义：194
+  - 在江恩理论中：496-506
+  - 移动平均线等：218-220
+  - 持仓兴趣等：177
+  - 摆动指数的背离现象：271-272
+  - 在点数图中：328
+  - 速度阻挡线：81-84
+  - 支撑和阻挡：65
+  - 波峰偏移：402-407
+  - 趋势线等：68,71,75,76,80-83
+  - 交易量等：165-168
+  - 参见“持续形态”、“反转形态”
+- 三分之一回撤，见“百分比回撤”：76
+- 三分之二回撤，见“百分比回撤”：76
+- 三角形底边（Base of triangle）：124
+- 三角旗形（Pennants）：142-144
+- 三角形（Triangle）：124
+  - 在连接图表上：195
+  - 调整浪：352
+  - 在日线图上：124-140,165
+    - 上升三角形：121-123
+    - 扩大形态：137-139
+
+<!-- pdf p526 / 书页 511 -->
+
+    - 下降三角形：134-136
+    - 对称三角形：124
+  - 在艾略特波浪理论中：350-351,357
+- 三重底的突破（Breakout of a triple bottom）：326
+- 三重顶的突破（Breakout of a triple top）：326
+- 三重交叉法（Triple crossover method）：226-228,234-235
+- 三三浪结构调整浪（Triple three corrective wave）：358-359
+- 三重顶和底反转形态（Triple top and bottom reversal patterns）：79,106-108
+- 三点转向点数图（Three-box reversal point and figure charts）
+  - 日内点数图：295,300-309
+    - 画法：302-309
+    - 密集区分析：309-310
+    - 横向数列法：310
+    - 价格形态：311-314
+  - 变通点数图：321-334
+    - 画图法：322-324
+    - 测算技术：330-333
+    - 资料来源：337-338
+    - 交易策略：333-334
+    - 趋势线的画法：327-331
+- 马克·蔡金（Marc Chaiken）：172,291
+- 马勒资讯公司（Muller Data）：302
+- 下降趋势线（Down trendline），参见“下降趋势”、 “趋势线”：68,69,76
+- 下降趋势（Downtrends）：54-56,60
+  - 管道线等：76-79
+  - 定义：194
+  - 在江恩理论中：499-506
+  - 移动平均线等：218-220
+  - 持仓兴趣等：177
+  - 摆动指数的背离现象：271-272
+  - 在点数图中：328
+  - 速度阻挡线：81-84
+  - 支撑和阻挡：65
+  - 波峰偏移：402-407
+  - 趋势线等：68,71,75,76,80-83
+  - 交易量等：165-168
+  - 参见“持续形态”、“反转形态”、“趋势”
+- 大户保值商（Lage-hedgers category）：183-185
+- 大户投机商（Large-speculators category）：183-185
+- 小户（Small-traders category）：183-185
+- 习惯数（Round numbers）：67-68
+- 工具菜单（Tools menu）：425
+
+## 四画
+
+- 止损限价指令（Stop limit order）：462
+- 止损指令（Stop orders）：461-462
+- 五点反转形态（Five-point reversal pattern）：139
+- 《巴伦氏周刊》（Barron's）：20,28
+- 贝塔周期（Beta cycles）：397-400
+- 计算机（computers）：15,420-424
+  - 分析工具：422-428
+  - 工具分类：435-436
+  - 工具利用：436
+    - 人工智能形态识别：421-422,446-447
+    - 自动化交易系统：440-442
+  - 商品选择指数：436
+  - Compu Trac 软件：379,417,421-428,448
+  - 方向性运动系统：421,431-434
+  - 把自动化系统的信号综合到分析中：441-444
+  - 参考资料：448
+  - 优化过程：440
+  - 抛物线系统：421,428-431
+  - 获利能力测试：440-441
+  - 关于计算机自动交易系统的正反两方面意 兄：440-441
+- 《计算机能帮您做期货交易》（“Computer Can Help You Trade the Futures Markets”（Hochheimer））：230
+- 《计算书》（Liber Abaci （Fibonacci））：363
+- 日线图（Daily bar charts）：31,36-37,189
+
+<!-- pdf p527 / 书页 512 -->
+
+  - 计算机化的：422-424,435
+  - 价格刻度：35
+  - 交易量和持仓兴趣的画法：38-42
+    - 在谷物市场：40
+    - 次日公布：39
+    - 总额和小计：38
+    - 个别值的意义：40
+  - 参见“持续形态”、“反转形态”、“趋势线”、 “趋势”
+- 日交易量（Daily Volume）：160
+- 日内线图（Intra-day bar charts）：32-34,463-467
+- 日内轴心价格点（Intra-day pivot points）：470-472
+- 日内点数图（Intra-day point & figure charts）：294-295,302
+  - 画法：302-309
+  - 密集区分析：309-310
+  - 横向数列法：310-311
+  - 价格形态：311-314
+- 日内价格跳空（Intra-day price gaps）：91
+- 月反转（Monthly reversal）：87
+- 日本技术分析师协会（Nippon Technical Analyst Association）：478
+- 日本（Japan）：478
+- 内在价值（Intrinsic value）：4,493
+- 方向性运动系统（Directional Movement System）：421,431-433
+- 双日反转（Two-day reversal）：86-87
+- 双日规则（Two-day rule）：74-75
+- 双线相交法（Double crossover method）：225-226
+- 双三浪结构（Double three corrective waves）：358-359
+- 双回撤现象（Double retracemant of waves）：348-350
+- 双重顶和底（Double tops and bottoms）：60,62
+  - 在连续图表中：195
+  - 在日线图中：108-111
+- 分散投资（Diversification）：453
+- 邓恩和哈吉特顾问公司（Dunn and Hargitt Advisory Service）：337
+- 双台阶形（Duplex horizontal reversal pattern）：313
+- 历史会重演（History-repeats-itself philosophy）：48
+- 中等周期（Intermediate cycle）：397
+- 中趋势（Intermediate trend）：56-58
+- 中线法（Median Line of Resistance （MLR））：438
+- 中继跳空（Runaway gap）：87-88
+- 区间（Range）：36
+- 比价分析（Ratio analysis）：488
+- 比利·琼斯（Billy Jones）：494
+- 长期图表（longer-range charts），见“连续图表”
+- 长期的移动平均线（longer-range moving averages）
+- 长期技术分析（longer-range technical forcasting）：6
+- 长周期（long-term cycle）：398
+- 《长波周期》（Long Wave Cycle （Kondratieff））：398
+- 长钉形反转形态（Spike reversal pattern）：118-122
+- 开市价（Opening price）：36-37
+- 无期限合约（Perpetual Contract）：191-192
+- 无期限指数（Perpetual Index）：192
+- 无趋势市场（Trendless market）：55-56
+- 比例原理（Proportionality principle）：392
+- 反扑（Return moves）
+  - 在连续图表上
+    - 上升三角形：131
+    - 扩大形态：139
+    - 下降三角形：135
+    - 钻石形态：141
+    - 对称三角形：124
+  - 在反转形态中
+    - 头肩形：99
+    - 倒头肩形：102
+- 反转日（Reversal days）：84-87
+- 反转形态（Reversal patterns）：23-28,93,195
+    - 趋势线的调整：73-75
+
+<!-- pdf p528 / 书页 513 -->
+
+  - 管道线：76-79
+  - 扇形原理：77-79
+  - 头肩形形态：99
+  - 细小穿越：73-74
+  - 重要趋势线的突破：95
+  - 速度阻挡线等：81-84
+  - 有效穿越：74-75
+  - 与持续形态的比较：122
+  - 双重顶和底
+  - 在连续图表上：195
+  - 在日线图上：108-111
+  - 扇形原理：77-79
+  - 五点反转形态：139
+  - 头肩形
+  - 在连续图表上：195
+  - 在日线图上，见“头肩形反转形态：在日 线图上”
+  - 理想形态的变体：111-112
+  - 岛形反转：87,90-91,119
+  - 日反转：87
+  - 事先的趋势：95
+  - 在点数图上：311-314
+  - 圆形（盆形）：115-118
+  - 形态规模：95
+  - 三重顶和底：79,106-107
+  - V形形态：118-122
+  - 交易量等：94,95
+  - 周反转：87
+  - 参见“图表形态”
+- 支撑（Support）：58-68
+  - 定义：59
+  - 穿越程度：64-67
+  - 在艾略特波浪理论中：362-363
+  - 实例：59-62
+  - 习惯数的重要性：67-68
+  - 在点数图中
+    - 日内点数图：312-314
+    - 变通点数图：327-331
+  - 心理学：62-74
+  - 角色互换：62
+  - 交易策略：460
+- 牛市差价交易（Bull spreading）：485
+- 牛市陷井（Bull trap）：113
+
+## 五画
+
+- 四周规则（Four-week rule）：246-250
+  - 特点：246
+  - 优化：247
+  - 保持简明：248
+  - 与周期联系起来：248
+  - 调整时间跨度：248
+- 艾伦·安德鲁斯（Alan Andrews）：438
+- 《艾略特波浪理论》（Elliott Wave Principle （Frost and Prechter））：343,369
+- 《艾略特波浪理论——一份中肯的评价》（Elliott Wave - A Critical Appraisal （Bolton））：342
+- 《艾略特波浪理论家》（Elliott Wave Theorist）：342
+- 艾略特波浪理论（Elliot Wave Theory）：23,341-381
+  - 交替规则：360
+  - 在股市与商品市场的比较：367-369
+  - 基本原理：343-346
+  - 价格管道：360-362
+  - 调整浪：352-360
+    - 双三浪结构和三三浪结构：358-360
+    - 平台形：354-357
+    - 三角形：357-358
+    - 锯齿形：352-353
+  - 道氏理论等：346-347
+  - 应用实例：370-377
+  - 菲波纳奇数字等：344,363-367
+    - 弧线：377-381
+    - 波浪理论的基础：363-367
+    - 扇形线：377-381
+    - 性质：363-367
+    - 比数和价格回撤：364-366
+    - 在周期理论中：367
+    - 时间目标：366
+  - 历史背景：341-342
+  - 导论：343
+
+<!-- pdf p529 / 书页 514 -->
+
+  - 对数螺线等：364
+  - 参考资料：369-370
+  - 与其它技术工具协同使用：369
+  - 波浪的延长：348-352
+    - 斜三角形：350-352
+    - 衰竭形态：350-352
+    - 各种类型：348-349
+  - 4浪作为支撑区：362-363
+- 《艾略特波浪附刊》（Eliott Wave Supplement）
+- 平均值（Averages）
+  - 在道氏理论中：29
+  - 在移动平均线中，参见“移动平均线”
+  - 在股市与期货的比较：13
+- 记价法（Book method），见“点数图”
+- 市场特性原则（Characterization principle）：156-158
+- 弗雷德·迪克森（Fred Dickson）：19
+- 弗兰克·霍克海默（Frank Hochheimer）：230-235,250
+- 弗兰克·J·威廉（Frank J.William）：16
+- 弗雷德·格姆（Fred Gehm）：370,457
+- 电脑期货趋势分析（Electronic Futures Trend Analyzer （EFTA））：442-446
+- 主流周期（Dominant cycles）：397-399
+  - 周期分类：397-398
+  - 康德拉蒂耶夫波：397-398
+  - 参见“时间周期”
+- 平台（Platform）：115
+- 平台形（Flats）：354-357
+- 外汇期货（Foreign currencies）：6
+- 头肩形持续形态（Head and shoulders continuation pattern）：155-156
+- 头肩形反转形态（Head and shoulders reversal Pattern）
+  - 在连续图表上：165
+  - 在日线图上：79,96-100
+    - 复杂头肩形：104-105
+    - 作为调整形态：106
+    - 流产头肩形：105-106
+    - 倒头肩形：102-104
+    - 对策：104-105
+  - 在点数图上：313
+- 《去年我如何从商品市场挣了一百万美元》（How I Made One Million Dollars in the Commodity Market Last Year （Williams））：417
+- 主要趋势（大趋势）（Primary trends）：22-23
+- 主要趋势（大趋势）（Major trends）：22,56-58,194
+- 主要上升趋势（Major uptrends）
+- 主浪（Impulse waves）：343,348-351
+- 尼古莱·D·康德拉蒂耶夫（Nikolai D.Kondratieff）：397-398
+- 兰伯特一江恩出版公司（Lambert-Gann Publishing Company）：496
+- 左侧护展V形形态（Left-handed extended V reversal pattern）：122
+- 对称三角形（Symmetrical triangles）
+  - 在连续图表上：195
+  - 在日线图上：126-130
+- 对数螺线（Logrithmic spiral）：364
+- 对数刻度和算数刻度（Logrithmic vs. arithmetic scale）：35
+- 对等运动（Measured move）：153-154
+- 市场行为（Market action）
+- 市场平均值（Market average）：196
+- 市价指令（Market orders）：462
+- 市场技术分析师协会（Market Technicians Association （MTA））：19,478
+- 市场风向标通讯服务（Market Vane Advisory Service）：294
+- 市场透视公司（Market Vision Corporation）：315
+- 汉弗莱·B·尼尔（Humphrey B. Neill）：291
+
+## 六画
+
+- 合约有效期（Life span）：10
+- 关键反转日（Key reversal day）：86,118,195
+- 百分比包络线（Percentage envelopes）：221-222
+- 百分比穿越原则（Percentage penetration criteri-）：74-75,113
+
+<!-- pdf p530 / 书页 515 -->
+
+- 百分比回撤（Percentage retracements）：76-81
+  - 意见一致数字的回撤：294
+  - 计算机：437
+  - 连续图表：194-195
+  - 菲波纳奇：364-366
+  - 交易策略：458-461
+  - 在江恩理论中：498-507
+- 动力指数（Momentum measurement）：255-262
+  - 价格上升或下降的速度：259-262
+  - 概念：255-256
+  - 交易信号：258-259
+  - 上下边界：259
+  - 超前于价格变化：258
+- 机会角度工具（Opportunity Angles tool）：506
+- 权衡交易量（On Balance Volume （OBV））：167-171,175
+- 优化（Optimization）
+  - 图表形态：156-157
+  - 四周规则：247
+  - 移动平均线：156,230-235
+  - 点数图：335-336
+- 夸春期货图表公司（Quotron Futures Charts）：315,337
+- 《在华尔街上随机走走》（A Random Walk Down Wall Street （Malkiel））：18
+- 回撤（Retracement），见“百分比回撤”
+- 考特尼·史密斯（Courtney Smith）：489
+- 亚历山大·惠伦（Alexander Wheelan）：338
+- 同步原理（Synchronicity principle）：392
+- 《自然法则-宇宙的秘密》（Nature's law 一 The Secret of the Universe （Elliott））：342
+- S·A·纳尔逊（S. A. Nelson）：21
+- 自测运动（Swing measurement）：153
+- 交替规则（Alternation rule）：360
+- 乔治·莱恩（George Lane）：279,283
+- 价格变化（Price action）：1-2
+- 价格管道（Price channels）
+  - 在连续图表上：194
+  - 在日线图上：76-79
+  - 在艾略特波浪理论中：360-362
+  - 在江恩理论中：503
+  - 在点数图中：312
+  - 时间周期等：395
+- 价格过滤器（Price filters）：74,113
+- 价格预测（Price forcasting，参见“技术分析”）：450
+- 价格跳空（Price gaps）
+  - 在日线图上：87-91
+  - 在点数图上：309
+  - 交易策略等：458,460
+- 价格形态（Price patterns）：93-158
+  - 市场特性原则：156-158
+  - 相互验证原则：157-158
+  - 在连续图表上：195
+  - 在日线图上，见“持续形态”、“反转形态”
+  - 定义：94
+  - 相互背离原则等：158-159
+  - 历史会重演等
+  - 在点数图上
+    - 日内点数图：311-314
+    - 变通点数图：325-327
+  - 参见“图表”、“技术分析”、“趋势线”、“趋 势”
+- 价格（Prices）
+  - 在日线图上：36
+  - 变化速度，见“动力指数”
+- 价格趋势（Price trends），见“趋势”
+- 价格下降速度（Descent rates）：256
+- 价格上升速度（Ascent rates）：256
+- 价格上涨压力（Buying pressure）：166
+- 向上突破（Upside breakout）
+  - 突破看跌阻挡线：313
+  - 突破看涨阻挡线：313
+  - 突破看涨三角形：313
+- 次要（中）趋势（Secondary trends）：22,56-58
+- 向上周反转（Upside weekly reversal）：87
+- 向下突破点（Breakdown point）：110
+- 向下突破（Downside breakout）
+
+<!-- pdf p531 / 书页 516 -->
+
+  - 看跌支撑线：326
+  - 看跌三角形：326
+  - 看涨支撑线：326
+- 扩大形态（Broadening formation）：137-139
+- 买入限价指令（Buy limit order）：462
+- 买入止损指令（Buy stop order）：462
+- 买权（Calls），参见“期权交易”：489
+- 芝加哥期权交易所（Chicargo Board Options Exchange （CBOE））：495
+- 芝加哥商业交易所（Chicago Mercantile Exchange）：478
+- 收市价格（Closing price）
+  - 在日线图上：36
+  - 道氏理论等：27
+  - 移动平均线等：215-216
+- 交易量（Volume）
+  - 胀爆等：182-183
+    - 在连续图表上
+    - 旗形和三角旗形：142-143
+    - 矩形：147
+    - 三角形：124-136
+    - 楔形：144-148
+  - 在日线图上
+    - 谷物市场：40
+    - 次日公布：39-40
+    - 总额与个别值：38-39
+  - 定义：38,160
+  - 道氏理论等：23
+  - 解释：163-175
+    - 验证价格形态：165-166
+    - 一般规则：163
+    - 限价日等：175
+    - 权衡交易量（OBV）：167-171
+    - 交易量累积（VA）：171-172
+    - 交易量领先于价格：166
+  - 在点数图上：298-299
+  - 阻挡水平等：63
+  - 反转形态：
+    - 双重顶和底：108-110
+    - 头肩形：96-100
+    - 倒头肩形：102-104
+    - 三重顶和底：106-107
+    - 是次要指标：160-163
+    - 抛售高潮等：182-183
+    - 个别值的价值：40
+- 交易指令（Trading orders）：462-463
+- 交易区间（Trading range）：49,72
+- 交易策略（Trading Tactics）：450,458-461
+  - 把技术因素与资金管理结合起来：461-462
+  - 日内图表：463-464
+  - 日内轴心价格点：470-472
+  - 举要：472-473
+  - 三点转向点数图：333-334
+  - 突刺技术：468-469
+  - 交易指令的类型：462-463
+  - 利用技术分析抉择时机：458-461
+- 交易量累积（Volume accumulation）：171-172,291
+- 交易商分类报告（Commitments of Trader's Reports）：183
+- 《交易商手册》（Trader's Notebook）：245
+- 《全国商品期货周刊》（Consensus National Commodity Futures Weekly）：294
+- 光标（Cursor）：424
+- 米尔顿·吉勒（Milton Jiler）：87
+- 当日交易（Day trading）：8
+- 延迟突破形（Delayed ending reversal pattern）：313
+- 有效市场假定（Efficient market hypothesis）
+- 扩展V形反转形态（Extended V reversal pattern）：122-123
+- 过滤器（Filters）：74-75,113,221-222,247
+- 约瑟夫·M·克莱茵（Joseph M.Klein）：295
+- 约瑟夫·格兰维尔（Joseph Granville）：167
+- 约翰·E·弗罗因德（John E. Freund）：16
+- 约翰·W·莱伯兹乌斯基（John W.Labuszewski）：494
+- 约翰·马吉（John Magee）：30
+- 《华尔街日报》（Wall Street Journal）：8,20,41,295
+
+<!-- pdf p532 / 书页 517 -->
+
+- 《华尔街把戏》（Game in Wall Street （Hoyle））：294
+- 江恩理论（Gann analysis）：71-72,496-506
+- 《江恩角度》（Gann Angles （Kahn））：506
+- 江恩交易者1号（Ganntrader 1 programm）：506
+- 包容带（High-low band）：222
+- 《如何利用图表预测商品价格》（How Charts Are Used in Commodity Price Forcastings （Jiler）.）
+- 《如何在商品市场获利》（How to Make Profits in Commodities （Gann））：506
+- 《如何从商品的季节性差价中获利》（How to Profit from Seasonal Commodity Spreads:A Complete Guide （Bernstein））：419,489
+- 各国股票市场（International stock markets）：5,6
+
+## 七画
+
+- 阿夫拉哈默·卡玛拉（Avraham Kamara）：17
+- 阻挡（Resistance）：58-68
+  - 穿越程度：64-67
+  - 实例：59-62
+  - 习惯数的重要性：67-68
+  - 在点数图上
+    - 日内点数图：312-314
+    - 变通点数图：327-331
+  - 心理学：62-64
+  - 角色互换：62
+  - 交易策略：460
+- 抛物线系统（Parabolic System）：421,428-433
+- 抛售高潮（Selling climax）：84,182-183
+- 阿瑟·斯克拉罗（Arthur Sklarew）：235
+- 技术分析（Technical analysis）
+  - 适应性：6
+  - 与时机抉择：5
+  - 各种时间尺度：8
+  - 应用于差价图表：482-484
+  - 时机抉择：458
+    - 画图方法，见“图表”
+  - 清单：475-476
+  - 与基础分析协调进行：476-477
+  - 反面意见：14-19
+  - 道氏理论，见“道氏理论”
+  - 经济预测：8-9
+  - 金融期货：6
+  - 灵活性：6
+  - 与基础分析之辩：4-5
+  - 全球的发展：478
+  - 各国股市：6,7
+  - 股市与期货之间的纽带：479
+  - 期权交易：493-494
+  - 理论基础：1-3
+    - 历史会重演：2-4
+    - 市场行为包容消化一切：2-3
+    - 价格以趋势方式演变：2-3
+  - 随机行走理论：16-19
+  - 股票交易等：6,11-13
+  - 技术师？图表师？：9
+  - 参见“图表” “艾略特波浪理论”、“移动平 均线”、“摆动指数”、“价 格形态”、“时间周期”、 “趋势”
+- 技术分析师（Technician）：477
+  - 与图表分析师：10
+- 《技术型交易系统新思路》（New Concepts in Technical Trading System （Wilder））：273,428
+- 杠杆作用（Leverage factor）：5
+- 杠杆支点形（Fulcrum reversal patterns）：312-314
+- 连续月线图（Monthly continuation charts）：43-45,160,189-213
+  - 商品指数：196-197
+  - 图表画法：190-191
+  - 实例：199-213
+  - 大范围透视的意义：190
+  - 通货膨胀修正：197
+  - 目的：190
+
+<!-- pdf p533 / 书页 518 -->
+
+  - 技术分析理论摘要：193-194
+  - 技术分析术语：194-195
+  - 趋势分析等：193-195
+  - 用处：198
+- 连续图表（Continuation charts）：43-44,189-213
+  - 商品价格指数等：196-197
+  - 连续图表的绘制：190
+  - 实例：199-213
+  - 大范围透视的意义：190
+  - 通货膨胀修正：197
+  - 价格形态：195
+  - 技术分析理论摘要：193-194
+  - 技术分析术语：194-195
+  - 趋势分析：193
+  - 不直接服务于交易：198
+- 连续周线图（Weekly continuation charts）：43-45,160,189-213
+  - 商品价格指数：196-197
+  - 画图方法：190-191
+  - 实例：199-213
+  - 大范围透视的意义：190
+  - 通货膨胀修正？：197-198
+  - 目的：190
+  - 技术分析理论摘要：193-194
+  - 技术分析术语：194
+  - 趋势分析等：193-198
+  - 不直接服务于交易：198
+- 报偿一风险比（Reward-to—risk ratios）：453-455
+- 阿尔法周期（Aplha cycles）：397-400
+- 安东尼·W·沃伦（Antony W. Warren）：412
+- 安德鲁斯直线（Andrews lines）：438
+- 安德鲁斯长叉（Andrews Pitch Fork）：438
+- 时间区（Time band）：415
+- 时间周期（Time cycles）：382-419
+  - 与其它技术工具相接合：415-416
+  - 综合各种周期：400
+  - 周期理论：383-393
+    - 基本概念：384-400
+    - 理解图表技术：394-397
+    - 谐波原理：390,392
+    - 基准原理：392-393
+    - 比例原理：392
+    - 叠加原理：392
+    - 同步原理：392
+    - 变通原理：392
+  - 主流周期：397-398
+    - 分类：397
+    - 康德拉蒂耶夫波：397-398
+    - 菲波纳奇数字：367
+  - 四周规则与周期：248
+  - 资料来源：419
+  - 分离周期：407-402
+  - 波峰左移和右移：402-406
+  - 移动平均线与周期：237-238
+  - 摆动指数与周期：287,417
+  - 季节性周期：412-413
+- 时间尺度（Time dimensions）：8
+- 时间过滤器（Time filters）：74-75,221-222
+- 时间域（Time frame）：12
+- 时间序列分析（Time series analysis）：16
+- 时间价值（Time value）：493
+- 时间窗（Time window）：415
+- 时机抉择（Timing）
+  - 与技术分析：5
+  - 股票与期货：12
+- 亨利·本斯顿（Henry Benston）：347
+- 技术分析师？图表分析师？（Chartist vs.technician）：9
+- 沃尔特·布雷塞特（Walter J. Bressert）：397,415-419,472
+- 即时相对力度摆动指数（Current Relative Strength Line （CRS））：269
+- 延长浪，见“波浪延长”
+- 快速富里叶变换（Fast Fourier Transform）
+- 里昂纳多·菲波纳奇（Leonardo Fibonacci）：363
+  - 菲波纳奇数列：363-367
+  - 弧线：377-381
+  - 波浪理论的基础：363-367
+  - 扇形线：377-382
+
+<!-- pdf p534 / 书页 519 -->
+
+  - 性质：363-367
+  - 比数和价格回撤：364-366
+  - 在周期理论中：367
+  - 时间目标：366
+  - 在移动平均线中：238
+- 谷物市场的画图方法
+- 《利润和获利能力》（Profit and Protitability （Davis））：300,310
+- 利率期货（Interest rate markets）：6
+- 《投资者期货资金管理指南》（Investor's Guide to Futures Money Management （Baratz））：457-458
+- 岛形反转（Island reversal）：87,90-91,118
+- 克米特·C·齐格（Kermit C. Zieg）：335,338-339
+- 《利用精确的时机抉择法获利》（Trading for Profit with Precision Timing （Vodopich））：506
+- 返回线（Return lines）：76-77
+- 忍峙能力（Staying power）：492
+- 伯顿·G·马尔基尔（Burton G. Malkiel）：18
+
+## 八画
+
+- 单线图（Line charts）：31
+- 限价日（涨跌停板日）（Limit days）：175
+- 限价指令（Limit orders）：462
+- 物极而反（Non-failuue swing）
+- 事先存在的趋势（Prior trend）：95
+- 卖权/买权比数（Put/call ratios）：493
+- 卖权（Puts），参见“期权交易”：490
+- 金字塔法（Pyramiding）：334
+- 卖出压力（Selling pressure）：166
+- 卖出限价指令（Sell limit order）：462
+- 卖出止损指令（Sell stop order）：462
+- 拉里·威廉斯（Larry Williams）：417
+- 拉尔夫·纳尔逊·艾略特（Ralph Nelson （R.N.） Elliott）：23,341-342
+- 线性加权移动平均线（Linearly weighted moving averages）
+  - 特性：216-217
+  - 优化研究：230-232
+  - 参见“移动平均线”
+- 线图（Bar charts）
+  - 日内线图：31-32,463-468
+  - 线图与点数图：298-301
+  - 参见“连续图表”和“日线图”
+- 《股票市场的随机行走特点》（Ramdom Character of Stock Market Prices （Cootner编））：16
+- 《股票交易审时度势的获利秘诀》（Profit Magic of Stock Transaction Timing （Hurst））：384
+- 《股票及商品技术分析》（Technical Analysis of）
+- 《股市趋势技术分析》（Technical Analysis of Stock Trends （Edwards and Magee））：30
+- 技术可靠性指数（Technical Reliability Index）：158
+- 《股市投机常识》（S·A·纳尔逊着，ABC of Stock Speculation （Nelson））：21
+- 周期（Cycles），见“时间周期”
+- 周期（长度）（Period）：388-390
+- 《周期：触发事件的神秘力量》（Cycles：The Mysterious Forces That Trigger Events （Dewey and Mandino））：384
+- 周期中点暂停法价格目标（Midcycle pause price objective）：416
+- 《现代商用统计学》（Modern Business Statistics）：16
+- 罗伯特·D·爱德华兹（Robert D.Edwards）：30
+- 罗伯特·僱尔蒂埃（Robert Pelletier）：191
+- 罗伯特·E·戴维斯（Robert E. Davis）：325,335
+- 罗伯特·乔尔·泰勒（Robert Joel Taylor）：157
+- 周期研究基金会（Foundation for Study of Cycles）：384
+- 周期的波幅（Amplitude of cycle）：388-390
+- 周期波峰（Crests of cycle）：388
+
+<!-- pdf p535 / 书页 520 -->
+
+- 周规则突破信号（Weakly breakouts）：221,244-249
+- 周价格管道（Weekly price channel），见“四周规 则”
+- 周反转（Weekly reversal）：87,195
+- 周规则（Weekly rule），见“四周规则”
+- 顶点（Apex）
+  - 三角形中：124
+  - 楔形形态中：145
+- 顶部衰竭形态（Top failure swing）：277-278
+- 顶部形态（Topping patterns）
+  - 在连续图表上：195
+  - 在日线图上
+    - 下降三角形：129
+    - 顶与底的区别：123-124
+    - 双重顶：108-111
+    - 圆顶：115-118
+    - 三重顶：106-107
+    - V形顶：118-122
+    - 楔形：117
+  - 在点数图中：309-312
+- 顶部反转日（Top reversal day）：84
+- 杰克·赫特森（Jack Hurtson）：412
+- 杰拉尔德·阿佩尔（Gerald Appel）：290
+- 週伊·贝尔维尔（L. Dee Belveal）：188
+- 胀爆（Blowoffs）：182
+- 底部衰竭动作（Bottom failure swing）：274
+- 底部形态（Bottoming patterns）
+  - 在连续图表上：195
+  - 在日线图上：
+    - 上升三角形：131-132
+    - 顶与底的差别：108-111
+    - 双重底：108-111
+    - 圆底：115-118
+    - 三重底：106-108
+    - V形底：118-122
+    - 楔形：147-149
+  - 在点数图上：311-314
+- 底部反转日（Bottom reversal day）：84,85
+- 底部反转形态（Bottom reversal pattern）：107
+- 波谷（谷）（Trough），参见“支撑”：53-54
+- 波峰（Peaks），参见“阻挡”：53-54
+- 波幅带（Volatility band）：221
+- 波谱分析（Spectral analysis）：412
+- 波浪的延长（Wave extensions）：348-352
+  - 衰竭形态：350-352
+  - 类型：348-349
+- 波浪的个性（Wave personalities）：347-348
+- 《波浪理论》（Wave Principle （Collins））：341-342
+- 波浪理论（Wave theory），见“艾略特波浪理论”
+- 变通原理（Variation principle）：392
+- 垂直测算原则（Vertical measurements）：310
+- 季节性周期（Seasonal cycles）：412-415
+- 现货股票指数与股票指数期货（Cash index vs. stock index futures）：488
+- 国立经济研究院（National Bureau of Economic Research）：8
+- 国际技术分析家联盟（International Federation of Technical Analysts）：478
+- 图表分析有限公司（Chart Analysis Ltd）：337
+- 图表形态（Chart patterns），见“价格形态”
+- 图表（Charts）：30-32
+  - 算术刻度和对数刻度：35
+  - 线图：
+    - 日内线图：32,463-467
+    - 线图与点效图：298-300
+    - 参见“连续图表”、“日线图”
+    - 道势分析的读图顺子：195-196
+  - 自己绘图和利用图表系统：42
+  - 差价：482-486
+  - 参见“持仓兴趣”“价格形态”、“趋势线”、 “趋势”、“交易量”
+- 图表服务系统（Chart service）：42
+- 《股市交易的三点转向点数图方法》（Three一 point Reversal Method of Point and Figure Stock Manket Trading）：338
+- 《股票市场晴雨表》（Stock Market Barometer （Hamilton））：21
+- 《股市时机抉择》（Stock Murket Timing （Cohen））：321
+
+<!-- pdf p536 / 书页 521 -->
+
+- 咖啡、糖和可可交易所（Coffee, Sugan &. Cocoa Exchange）：9
+- 经济预测（Economic forcasting）：8-10
+- 金融期货（Financial futures）：6
+- 罗伯特·雷（Robert Rhea）：21,342
+- 波蜂左移和右移（Right and left translation）
+- 直角三角形（Right angle triangles），见“上升三角 形”、“下降三角形”：402-406
+- 直接交易（Outright trading）：481
+- 帕多公司（Pardo Corporation）：506
+- 彼得·皮克（Peter Pich）：506
+
+## 九画
+
+- 派里考夫曼（Perry J.Kaufman “）：250,335,338,370
+- 珍妮·凯恩斯·辛克非尔德（Jeanne Cairns Sinquefield）
+- 差价关系（Spread relationship），见“相对力度”、 “差价交易”：494-495
+- 差价纵览公司（Spread Scope Inc）：490
+- 差价交易（Spread trading）：6,481-483
+  - 定义：481
+  - 参考资料：490
+  - 技术分析的应用：482-484
+  - 参见“相对力度”
+- 持仓兴趣（Open interest）：36-51
+  - 胀爆等：184
+  - 持仓兴趣的改变等：162
+  - 交易商分类报告等：183-185
+  - 相反意见理论等：291
+  - 定义：38,160-162,176-181
+  - 在谷物市场的画法：40-41
+  - 研读：176
+    - 次日公布：39-40
+    - 季节惟变化：185-188
+  - 作为次要指标：160
+  - 抛售高潮等：184
+  - 总额与个别值：38
+  - 个别值的价值：40
+- 持续形态（Continuation patterns）：94,123-158
+  - 在连续图表上：195
+  - 在日线图上
+    - 旗形和三角旗形：142-144
+    - 头肩形：155-156
+    - 对等运动：153-154
+    - 矩形：149-153
+    - 三角形，见“三角形，在日线图上”
+    - 楔形：145-148
+  - 与反转形态：122
+- 相位（Phase of cycle）：388-390
+- 《相反意见理论，如何利用它在商品期货业获 利》，Contrary Opinion :How to Use It for Profit in Trading Commodity Futures （Hadady）：294
+- 相对力度（Relative strength）：484-489
+  - 市场之间的相对力度：487
+  - 商品指数之间的相对力度：489
+  - 月份之间的相对力度：484-485
+    - 比价分析等：488
+    - 参考资料：489
+    - 現货股票指数与股指期货：488
+- 相对力度指数（Relative Strength Index （RSI））：273-279
+    - 特点：273-274
+    - 研读：274-279
+    - 70和30标志线：279
+- 相反意见理论（Contrary opinion principle）：291-295
+    - 天生的买入倾向：293
+    - 看涨意见一致数字的方向性变化：293
+    - 与其它技术工具相接合：293
+    - 定义：291
+    - 持仓兴趣的重要性：293
+    - 看涨意见一致数字的研读：293
+    - 市场对基本面消息的反应：293
+    - 买方或卖方的余力：294
+    - 意见一致数字的回撤现象：293
+    - 大小户实力对比：293
+- 临界分析（Edge band analysis）：269-270
+
+<!-- pdf p537 / 书页 522 -->
+
+- 保证金要求（Margin requirement）：5,12
+- 保罗·H·库特纳（Paul H. Cootner）：16
+- 保护任止损指令（Protective stop）：314,453,461-463
+- 标价方式（Pricing structure）：11
+- 相互验证源则（Confirmation principle）：23,157-158
+- 《逆向思维的艺术》，汉费雷·B·尼尔，Art of Contrary Thinking （Neill）：291
+- 指数加权移动平均线（Exponentially smoothed moving averages）
+  - 特点：217
+  - 最佳组合的研究：230-235
+  - 参见“移动平均线”
+- 突破跳空（Breakaway gap）：88-90
+- 突破（Breakouts）
+  - 伪突破信号：113
+  - 关于突破信号的策略：430
+- 突刺技术（Thrust technique）：468-469
+- 《点数图技术学习辅导》（Study Helps in Point and Figure Technique （Wheeian））：338
+- 看涨意见一致指数（Consensus Index of Bullish Opinion）：294
+- 看涨意见一致数字（Bullish Concensus numbers）：289-293
+  - 一些特点：292-293
+  - 数字昀研读：294
+  - 市场对基本面消息的反应：293
+  - 持仓兴趣的重要性等：293
+  - 回撤现象：293
+- 绕线筒，见“对称三角形”
+- 相互背离原则（Divergence principle）：157-158
+  - 在道氏理论中：23
+  - 摆动指数等：271-272,288-291
+  - 交易重的解释等：163-165
+- 复合头寸交易（Multiple units）：455
+- 盆把（Handle）：115
+- 查尔斯·C·蒂尔（Charies C. Thiel）：335
+- 査尔斯·V·哈洛（Charles V.Harlow）：14,456-457
+- 查尔斯」柯林斯（Charles J. Collins）：341
+- 查尔斯·H·道（Charles H. Dow）：20,21,294
+- 查尔斯·帕特尔（Charles Patel）：250,448
+- 查克納图表服务公司（Chartcraft Commodity Service）：337
+- 查克纳每周图表服务（Chartcraft Weekly Service）：321
+- 复杂头肩形反转形态（Complex head and shoulders reversal pattern）：104
+- 复杂杠杆支点形反转形态（Compound fulcrum reversal pattern）：313
+- 弯曲的趋势线（Curving trendlines）：74
+- 《怎样从商品市场发财》（How to Build a Fortune in Commodities （Allen））
+- 《怎样利用4天、9天、18天移动平均线的组合从 商品市场获取更多利润》（How to Use the 4-Day,9 - Day， and 18-Day Moving Averages to Earn Larger Profits from Commodities （Allen））：227
+- 《怎样使用三点转向点数图法进行股票交易》（How to Use the Three - Point Reversal Method of Point &. Figure Stock Market Trading （Cohen））：321
+- 标准普尔氏500种股票指数（Standard and Poor's 500 Stock Index）：8,196
+- 统计学家（Statistical analysts）：10
+- 统计学（Statistics）：16
+- 威廉·L·吉勒（William L.Jiler 158）：185-186
+- 威廉·邓尼根（William Dunnigan）：468-470
+- 威廉·彼得·汉密尔顿（Wiliam Peter Hamilton）：21
+- 点效图（Point and figure charts）：32,96,294
+  - 长处：335
+
+<!-- pdf p538 / 书页 523 -->
+
+  - 与线图的比较：298-300
+  - 历史背景：294-295
+  - 日内点数图：294-295,302-314
+    - 画法：302-309
+    - 密集区分析：309-310
+    - 横向数列法：310-311
+    - 价格形态：311-314
+    - 数据来源：315
+  - 变通三点转向点效图：321-336
+    - 画法：322-324
+    - 测算技术 331--：333
+    - 资料来源：337-339
+    - 交易策略：333
+    - 趋势线画法：327-331
+  - 优化点数图：335-336
+  - 调整灵敏度：300
+- 《点数图商品交易技术》（Point and Figure Commodity Trading Techniques （Zieg and Kautman））：335,338
+- 《点数图法预测股价变化》（Point and Figure Method of Anticipating Stock Price Movements （deVilliers））：294
+- 《点数图交易法—计算机检验》（Point and Figure Trading, A Computer Evaluation （Davis and Thier））：335
+- 《荒屋》（Outermost House （Bolton））：342
+- 测量跳空（Measuring gap）：88
+- 美林公司的研究报告（Merril Lynch Commodity Research studies）：230
+
+## 十画
+
+- 爱德华·琼斯（Edward Jones）：20
+- 爱德华·R·杜威（Edward R. Dewey）：384
+- 爱德华·兰伯特（Edward Lambert）：494
+- 爱德华·D·多布森（Edward D. Dobson）：369
+- 埃利希周期尺（Ehrlich Cycle Finder）：407
+- 埃德森·古尔德（Edson Gould）：82
+- 倒复杂杠杆支点形（Inverse fulcrum reversal pattern）：313
+- 倒头肩形反转形态（Inverse head and shoulders reversal pattern）：102-104
+  - 在日线图上：102-104
+  - 在点数图上：313
+- 倒扣碗形（Inverse saucer reversal pattern 事會車）：313
+- 倒V 形反转形态（Inverted V reversal pattern）：313
+- 积累阶段（Accumulation phase）：49
+- 矩形（Rectangles）：27,149-152
+- 矩阵中心十字法（Cardinal sqare）：495
+- 套利（Arbitrage）：489
+- 套头交易（Straddle），见“差价交易”
+- 莫顿·巴拉兹（Morton Baratz）：458
+- 调整状态（Consolidation）：27
+- 消费者物价指数（Consumer Price Index）：9
+- 调整浪（Corrective waves）：344,345,352-359
+  - 双三浪结构和三三浪结构：358-359
+  - 平台形：354-357
+  - 三角形：357-358
+  - 锯齿形：352-354
+- 钻石形态（Diamond formation）：140-141
+- 扇形线（Fan Lines）：377-380
+- 扇形原理（Fan Principle）：77-79
+- 衰竭动作（或衰竭形态）（Failure swing）：24,276
+- 衰竭跳空（Exhaustion gap）：88,89
+- 离散三重顶（Spread triple top）：313
+- 资金管理（Money management）：451-473
+  - 综合各项技术因素：461
+  - 保守型与大胆型：455-456
+  - 交易方式：455-456
+  - 定义：457
+  - 分散投资与集中投资：453
+  - 要领：451-452
+  - 重要性：457
+  - 保护性止损指令：453
+  - 参考资料：457-458
+  - 报偿-—风险比：453-454
+  - 头寸的大小：452
+
+<!-- pdf p539 / 书页 524 -->
+
+  - 归纳总结：472-473
+  - 成功或失败阶数之后：456
+  - 复合头寸交易：455
+- 资金流向分析（Flow-of-funds analysis）：13
+- 《格兰维尔氏股市获利新秘诀》（Granvile's New Key to Stock Market Profits）：167
+- 谐波原理（Harmonicity principle）：390-392
+- 唐納德·R·兰伯特（Donald R. Lambert）：261
+- 唐纳德·R·沃都皮克（Donald R.Vodopich）
+- 重现事件调查研究学会（SIRE）（Society for the Investigation of Recurring Events）：419
+- 速度阻挡线（Speed resistance lines）：81-84
+- 预言自我应验论（Self-fulfilling prophecy）
+- 圆顶和圆底反转形态（Rounding top or bottom reversal pattern）：115-118
+- 圆形反转形态（Saucer reversal pattern）
+  - 在日线图上：115-118
+  - 在点数图上：313
+- 莱恩的随机指数（Lane's Stochastics）：279
+
+## 十一画
+
+- 菲利斯·卡恩（Phyllis Kahn）：506
+- 基本周期（中等周期）（Primary cycles）：397,400
+- 基本周期（Weekly primary cycie）：400
+- 基准原理（Nominality principle）：392-393
+- 基础分析（基本分析）（Fundamental analysis）：4,93
+- 理查德·罗素（Richard Russell）：21
+- 理查德·了·塔韦尔斯（Richard J. Teweles）：14,455-457
+- 与技术分析的协调使用：476
+  - 与技术分析之辩
+- 菲波纳奇比数（Fibonacci ratios）：363-367
+- 菲波纳奇时间目标（Fibonacci time targets）：363
+- 菲波纳奇弧线（Fibonacci Arcs）：377-382
+- 《银行信用分析家》（Bank Credit Analyst）：342
+- 移动平均线取中（Centering of moving averages）：236
+- 商业保值（Hedging process）：6
+- 推导统计学（Inductive statistics）：16
+- “商品市场分析中的点数图技术”，”Point and Figure Procedure in Commodity Market Analysis " （Wheelan）：338
+- 《商品市场技术分析》（Technical Analysis in Commodities （Kautman 编））：250
+- 《商品和股票的技术性交易系统》（Technical Trading System for Commodities and Stocks （Patel））：250,448
+- 《商品差价：金融、谷物、金属以及其它商品差价 交易的技巧和方法》（Commodity Spreads,Techniques and Methods for Spreading Financial Futures，Grains， Metals and Other Commodities （Smith））：489
+- 《商品期权市场揭秘》（Inside the Commodity Option Markets （Labuszewski and Sinquefield））：494
+- 《商品市场价格形为的图表分析》（Charting Commodity Market Price Behavior （Belveal））：188
+- 商品通道指数（Commodity Channel Index （CCI））：261-262
+- 《商品期货游戏》（塔韦尔斯，哈洛，斯通），Commodity Futures Game：455-457
+- 商品期货交易委员会（Commodity Futures）：183
+- 商品价格指数（Commodity indices）
+  - 连续图表等
+
+<!-- pdf p540 / 书页 525 -->
+
+  - 指数之间的相对力度：488
+- 《商品市场艾略特波浪分析》（Elliott Wave Commodity Letter （Weis））：342
+- 《商品市场资金管理》（Commodity Market Money Management（Gehm））：457
+- 商品期权（Commodity options），见“期权交易”
+- 《商品期权：投机和保值方法指南》（Commodity Options:A User's Guide to Speculation and Hedging （Mayer））：494
+- 《商品纵览》（Commodity Perspective）：274
+- 《商品价格图表》（Comodity Price Charts）：337
+- 商品研究局（Commodity Research Bureau）：185-188,442-443
+  - CRB 期货图表服务：185-188,42-43
+  - CRS 摆动指数：269
+  - 期货价格指数：9,13,196,200,400-401,488
+  - 商品群类指数：196,203
+  - 贵金属期货价格指数：202
+- 商品选择指数（Commodity Selection Index （CIS））：436
+- 《商品差价》（Commodity Spreads （Smith））：489
+- 《商品周期手册：时间窗》（Handbook of Commodity Cycles:A Window on Time （Bernstein））：415,419
+- 《商品交易系统和方法》（Commodity Trading System and Methods （Kaufman））
+- 《商品年鉴》（Commodity Yearbook）：370
+- 《商贸报》（Journal of Commerce）：40
+- 密集区（Congestion areas）
+  - 在日线图上：149
+  - 在点数图上：309-310
+- 斜三角形（Diagonal triange）：350-352
+- 描述统计学（Descriptive statistics）：16
+- 维克托·德维利尔斯（Victor de Villiers）：294,295
+- 理查德·唐迁（Richard Donchian）：245
+- 随机指数（Stochastics）：279-283
+- 随机行走理论（Random Walk Theory）：16-19,193
+- 康德拉蒂耶夫周期（Kondratieff cycle）：367
+- 康德拉蒂耶夫波（Kondratieff wave）：397-398
+- 康川可回馈视觉系统（Comtrend Videcom System）：32,315
+- 情绪指数（Sentiment indicators）：13
+
+## 十二画
+
+- 堪萨斯市期货交易所（Kansas City Board of Irade）：506
+- 斯坦·埃利希（Stan Ehrlich）：407
+- 超买状态（Overbought market）：252
+- 超卖状态（Oversold market）：252
+- 塔里·S·近耶（Terry S. Mayer）：494
+- 趋势线（Trendlines）：68-83,194
+  - 趋势线的调整：73-74,80-83
+  - 趋势线的突破，见“趋势线的突破”
+  - 计算机：425,435
+  - 趋势线的重要程度：72
+  - 画法：70
+  - 扇形原理：77-79
+  - 江恩理论中：499-506
+  - 测算意义：76-77
+  - 数字3重要性：79
+  - 在点数图中
+    - 日内点数图：311-314
+    - 变通点数图：327-331
+  - 价格区间：72-73
+  - 相对陡峭程度：71-73
+  - 支撑和阻挡互换角色：75-76
+  - 试验趋势线与有效趋势线：70
+  - 时间周期：394-397
+  - 趋势线的使用：70-72
+  - 参见“持续形态”、“反转形态”
+- 趋势反转（Trend reversals），见“反转形态”
+- 趋势（Trends）：17,47-92
+
+<!-- pdf p541 / 书页 526 -->
+
+    - 管道线：76-78
+    - 分类：56-58
+    - 在连续图表上：193-196
+    - 定义：53-55,195
+    - 趋势的方向：55-56
+  - 道氏理论：22-25,56
+  - 趋势概念的重要性：3
+  - 移动平均线，见“移动平均线”
+  - 摆动指数：288
+    - 百分比回撤，见“百分比回撤”
+  - 在点数图上：327-331
+  - 价格跳空：88-91
+  - 反转日：84-87
+  - 速度阻挡线：81-84
+  - 支撑和阻挡，见“阻挡”、“支撑”
+  - 时间周期：394-397
+  - 趋势线，见“趋势线”
+  - 参见“持续形态”、“反转形态”
+- 趋势线的突破（Breaking of trendlines）
+  - 在持续形态中：
+    - 上升三角形：131
+    - 扩大形态：137
+    - 下降三角形：134
+    - 钻石形态：138
+    - 旗形和三角旗形：139
+    - 四周规则等：246-249
+    - 矩形：149-152
+    - 对称三角形：126-130
+  - 在江恩理论中：499-500
+  - 移动平均线等：221-222
+  - 在反转形态中：71-75
+    - 趋势线的调整等：80-81
+    - 管道线等：86-87
+    - 扇形原理等：77-79
+    - 头肩形形态等：99-100
+    - 细小芽越：73-74
+    - 重要趋势线的突破：95
+    - 速度阻挡线等：81
+    - 有效突破：74-75
+  - 交易策略等：429-431
+  - 交易量等：163-166
+- 趋势加速（Accelecating trends）：71-74
+- 趋势解析（Detrending）：407-412
+- 短暂趋势（Near term trends）：56-58
+- 移动平均线相互验证/相互背离交易方法（Moving Average Convergence/ Divergence Trading Method （MACDTM））：243,290-291
+- 移动平均线（Moving averages *）：12,156,171,214-252
+  - 应用于任何时间域：241
+  - 应用于各种技术指标：243-244
+  - 在计算机图表上：427
+  - 足义：214-215
+  - 趋势解析：412
+  - 指数加权移动平均线：217
+    - 特点：217
+    - 最佳组合的研究：230-235
+    - 菲波纳奇数字：238
+  - 线性加权移动平均线
+    - 特点：216-217
+    - 最佳组合的研究：230-235
+  - 作为摆动指数：243,290-291
+  - 位置：235-236
+  - 平均对象：215-216
+  - 正反面意见：241-242
+  - 目的：214
+  - 简单移动平均线
+    - 特点：216
+    - 过滤器的用法：221-222
+    - 长期平均线与短期平均线：219
+    - 优化研究：230-235
+    - 单独使用：218-219
+    - 三线组合：226-229
+    - 两线组合：222-226
+  - 平滑工具：214
+  - 与周期相联系：237-238
+- 普通跳空（Common gap）：89-90
+- 短暫趋势（小趋势）（Minor trend）：22
+- 缓冲区（Buffer zone）：222
+- 雅各布·伯恩斯坦（Jacob Bernstein）：415,419,489
+
+<!-- pdf p542 / 书页 527 -->
+
+- 博克斯一詹金斯技术（Box-Jenkins technique）：412
+- 集中投资（Concentration）：453
+- 道·琼斯公司（Dow Jones & Company）：20
+- 道·琼斯指数（Dow Jones Averages）：196
+- 《道氏理论》（Dow Theory （Rhea））：20-30
+- 富里叶分析（Fourier analysis）：412
+- 《期货》杂志（Futures）：448
+- 《期货图表职业分析者的手段》（Techniques of a Professional Commodity Chart Analyst （Sklarew））：235
+- 期货交易要目（Futures trading facts）：46
+- 《期货市场问题 -份调查报告》（Issues in Futures Markets: A Survey （Kamara））：17
+- 期权交易（Option trading）：6,490-495
+  - 与直接交易相结合：492-493
+  - 与直接交易的比较：491-492
+  - 定义：490
+  - 有限风险特点：491
+  - 期权价格：493
+  - 卖权/买权比数作为市场气氛的标志：494
+  - 忍峙能力：492
+  - 推荐读物：493
+- 期权价格（Premiums of option）：491,493
+- 期权的有限风险（Limit risk）：491
+- 奥格·曼迪诺（Og Mandino）：384
+
+## 十三画
+
+- 简单看涨买入信号（Simple bullish buy signal）：313
+  - 上升底的简单看涨买入信号：313
+- 简单移动平均线（Simple moving averages）
+  - 特点：216
+  - 过滤器用法：221-222
+  - 长期平均线同短期平均线：219
+  - 优化研究：230-235
+  - 单独使用：218-219
+  - 三线组合：226-229
+  - 两线组合：222-226
+- 简单卖出信号（Simple sell signal）：313
+  - 下降顶的简单卖出信号：313
+- 楔形（Wedge formation）：145-148
+- 碗形反转形态（Bowl reversal pattern）：115-118
+- 跟进止损法（Trailing Stop）：334
+- 跟势交易（Trend trading）：8
+- 跳空（Gaps），见“价格跳空”
+- 锯齿形（Zig-zags）：352-353
+  - 詹姆斯·H·琼斯（James H. Jones）：417
+- 詹姆斯·H·西贝特（James H. Sibbet）：175,291-292
+- 数字3重要性：79
+- 触市指令（Market-if-touched （MIT） order）：463
+
+## 十四画
+
+- 摆动指数（Oscillators）：24,172,253
+  - 与周期相结合：417-418
+  - 两条移动平均线：262-264
+  - 相反意见理论：291-295
+    - 天生的买入倾向：293
+    - 看涨意见一致数字：292
+    - 与其它工具相接合：293
+    - 定义：292
+    - 持仓兴趣的重要性：293
+    - 意见一致数字的研读：292
+    - 市场对基本面消息的反应：293
+    - 买方或卖方的余力：292
+    - 意见一致数字的回撤现象：293
+    - 大小户买力对比：292
+  - 摆动指数的意义：254-262,268-272
+    - 对零线的穿越：269
+    - 相互背离现象：272
+    - 临界分析：270-271
+    - 一般规则：255
+  - 拉里·威廉斯指数%R：286-287
+  - 动力指数：255-262
+    - 价格上升或下降的速度：256
+    - 概念：255
+    - 对零线的穿越构成交易信号：258-259
+
+<!-- pdf p543 / 书页 528 -->
+
+    - 上下边界存在的必要性：259-261
+    - 超前于价格变化：258
+  - 移动平均线验证/背离交易法（MACDTM）：243,290-291
+  - 移动平均线等：243,262-264,290-291
+  - 变速指数：262
+  - 相对力度指数（RSI）：273-279
+    - 特点：273
+    - RSI的研读：274-275
+    - 70和30标志线：279
+  - 随机指数：279-283
+  - 趋势的重要地位：288
+  - 何时最为有效：255,288
+  - VA 法摆动指数：291
+- 旗形（Flags）：142-144
+- 算术刻度与对数刻度（Arithmatic vs. logarithmatic scale）：35
+- 熊市差价交易（Bear spreading）：485
+- 管道线（Channel lines），参见“价格管道”
+- 需求指数（Demand Index）：175
+- 叠加原理（Summation principle）：390,395
+- 赫伯特·L·斯通（Herbert L. Stone）：14,455-457
+- 《精确时机抉择》（Precision Timing （Vodopich））：505
+
+## 十五画
+
+- 横向延伸趋势（Sideways trends）：54-56
+- 横向数算法（Horizontal measurement）
+  - 三点转向点数图中：310-311
+  - 化化三点转向点数图中：331-333
+- 横向数算技术（count）：96
+- 《懂一点菲波纳奇数字》（Understanding Fibonacci Numbers （Dobson））：369
+- 摩根·罗杰斯和罗伯茨（Morgan Rogers &. Roberts）：302
+- 熵最大方法（Maximum Entropy Method （MEM））：412
+
+## 十六画
+
+- 《霍尔兰皮书》（HAL Blue Book （Bressert and Jones））：417
+- 《霍尔周期分析者智囊》（HAL Cyclic Analyst's Kit Manual）：416,472
+- 霍尔周期尺（HAL Cyle Finder）：416
+- 《霍尔市场周期》（HAL Market Cycles）：415
+- 霍尔动力指数（HAL Momentum Index）：417
+
+## 十七画
+
+- 戴维·韦斯（David Weis）：342
+
+## 十八画
+
+- 翻动功能（Scrolling）：424
+
+## 英文字母及数字
+
+- ADP康川视觉系统（ADP Comtrend's Videcom System）
+- A·汉密尔顿·博尔顿（A. Hamilton Bolton）：342
+- A·J·弗罗斯特（A.J.Frost）：342,343,369
+- A·W·科恩（A.W.Cohen）：295
+- CRB 期货图表服务（CRB Futures Chart Service）：185,186,191,269
+- EV 图表（Equivolume charts）：439
+- J·M·赫斯特（J.M. Hurst）：384,394-397
+- J·韦尔斯·王尔德（J.Welles Wilder）：273,214,221-228
+- R.C. 艾伦（R.C. Allen）：227
+- R·厄尔·黑达地（R. Earl Hadady）：292
+- 《R·N·艾略特选集》（Major Works of R. N. ELliott （Prechter））：342,369
+- “R·N·艾略特其人及其编造波浪其事”（Who Is R.N. Elliott and Why Is He Making Waves （Gehm））：370
+- %R摆动指数
+- W·D·江恩（W.D.Gann）：79,191,496-506
+- “W·D·江恩商品市场教程”（W. D. Gann Commodities Course）：506
+- “W·D·江恩股票市场教程”（W. D. Gann Stock Market Course）：506
+
+<!-- pdf p544 / 书页 529 -->
+
+- 《W·D·江恩技术评论》（W. D.Gann Technical Review）：506
+- V形形态（V patterns）
+  - 在日线图上：118-122
+  - 在点数图上：311-314
+- 45度线（45-degree line）：79-80
+  - 在江恩理论中：499-506
+- 4-9-18天移动平均线的组合（4-9-18-day moving average combination）：227-230,237-238
+- 50%回撤，见“百分比回撤”
